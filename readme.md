@@ -4,12 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
 
-- 🔭 I’m currently working on Proyecto Apañe
+- 🔭 I’m co-founder of Proyecto Apañe
 
-- 🌱 I’m currently working at **Walmart Chile  Omnichannel Supply Chain**
-
-- 👨‍💻 All of my projects are available at [https://devarif.co/portfolio](https://devarif.co)
-- 💪 My wakatime profile  [https://wakatime.com/@devboyarif](https://wakatime.com/@devboyarif) 
+- 🌱 I’m currently working at **Walmart Chile as MC&EO consultant**
 
 
 - 📫 How to reach me **@gmail.com**
